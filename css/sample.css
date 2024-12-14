@@ -1,0 +1,1244 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Fira+Sans&family=IBM+Plex+Mono:wght@500&family=Itim&family=Mukta&family=Open+Sans:wght@700&family=Rubik:wght@400;500&family=Ubuntu:wght@300&family=Unbounded&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #4d4d4d;
+    color: white;
+    position: sticky;
+}
+
+/*Class 6th*/
+
+.class6-heading {
+    margin-left: 5%;
+    margin-top: 21px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.class6-title {
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 19px;
+}
+
+.class6-img {
+    height: 183px;
+    width: 20%;
+    margin-top: 5px;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-left: 12px;
+}
+
+.class6-sub {
+    margin-left: 45px;
+}
+
+
+.class6-science {
+    margin-left: 1%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.btn-class6 {
+    margin-left: 2.8%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class6-socialscience-history {
+    margin-left: 1%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn1-class6 {
+    margin-left: 2.7%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class6-socialscience-geography {
+    margin-left: 0.3%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn2-class6 {
+    margin-left: 0.9%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class6-socialscience-civics {
+    margin-left: 1%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn3-class6 {
+    margin-left: 3.5%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class6-maths {
+    margin-left: 1%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn4-class6 {
+    margin-left: 3.5%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class6-english {
+    margin-left: 0.9%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn5-class6 {
+    margin-left: 3.2%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class6-hindi {
+    margin-left: 1%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn6-class6 {
+    margin-left: 3.8%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class6-sanskrit {
+    margin-left: 0.6%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn7-class6 {
+    margin-left: 2.8%;
+    padding-top: 1px;
+    margin-top: 1%;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+/*Class 7th*/
+
+.class7-heading {
+    text-align: center;
+    margin-top: -665px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.class7-title {
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 19px;
+}
+
+.class7-img {
+    height: 183px;
+    width: 20%;
+    margin-top: 5px;
+    border: 2px solid white;
+    border-radius: 17px;
+    margin-left: 605px;
+}
+
+.class7-sub {
+    margin-left: 55px;
+}
+
+.class7-science {
+    margin-left: 41%;
+    margin-top: 8px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn-class7 {
+    margin-left: 2.8%;
+    margin-top: 1%;
+    padding-top: 2.4px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class7-history {
+    margin-left: 40.9%;
+    margin-top: 6px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class7-geography {
+    margin-left: 39.4%;
+    margin-top: 6px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class7-civics {
+    margin-left: 41.7%;
+    margin-top: 6px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.class7-maths {
+    margin-left: 41.7%;
+    margin-top: 6px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class7-english {
+    margin-left: 41.4%;
+    margin-top: 6px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class7-hindi {
+    margin-left: 42.1%;
+    margin-top: 6px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class7-sanskrit {
+    margin-left: 41%;
+    margin-top: 6px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Class 8th*/
+.class8-heading {
+    text-align: center;
+    margin-top: -672px;
+    margin-left: 1110px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.class8-title {
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1.2%;
+    margin-left: 1110px;
+    font-size: 19px;
+}
+
+.class8-img {
+
+    height: 183px;
+    width: 20%;
+    margin-top: -1px;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-left: 1160px;
+}
+
+.btn-class8 {
+    margin-left: 5%;
+    margin-top: 1%;
+    padding-top: 2.4px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class8-science {
+    margin-left: 80.7%;
+    margin-top: 16px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class8-history {
+    margin-left: 80.7%;
+    margin-top: 12px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class8-geography {
+    margin-left: 79.2%;
+    margin-top: 12px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class8-civics {
+    margin-left: 81.4%;
+    margin-top: 12px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class8-maths {
+    margin-left: 81.4%;
+    margin-top: 12px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class8-english {
+    margin-left: 81.1%;
+    margin-top: 12px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class8-hindi {
+    margin-left: 81.8%;
+    margin-top: 12px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class8-sanskrit {
+    margin-left: 80.6%;
+    margin-top: 12px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Class 9th*/
+.class9 {
+    margin-left: 275px;
+}
+
+.class9-heading {
+    margin-left: 6.3%;
+    margin-top: 60px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.class9-title {
+    margin-left: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 19px;
+}
+
+.class9-img {
+    height: 200px;
+    width: 24.5%;
+    margin-top: -6px;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-left: 12px;
+}
+
+
+.class9-science {
+    margin-left: 4.1%;
+
+    padding-top: 5px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.btn-class9 {
+    margin-left: 2.8%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class9-socialscience-history {
+    margin-left: 4.1%;
+
+    padding-top: 5px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn1-class9 {
+    margin-left: 2.7%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class9-socialscience-geography {
+    margin-left: 3.6%;
+
+    padding-top: 5px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn2-class9 {
+    margin-left: 0.9%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class9-socialscience-civics {
+    margin-left: 4.2%;
+
+    padding-top: 5px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn3-class9 {
+    margin-left: 3.5%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class9-maths {
+    margin-left: 4.2%;
+
+    padding-top: 5px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn4-class9 {
+    margin-left: 3.5%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class9-english {
+    margin-left: 4%;
+
+    padding-top: 5px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn5-class9 {
+    margin-left: 3.2%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class9-hindi {
+    margin-left: 4%;
+    padding-top: 5px;
+}
+
+.btn6-class9 {
+    margin-left: 3.9%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class9-sanskrit {
+    margin-left: 4%;
+
+    padding-top: 5px;
+}
+
+.btn7-class9 {
+    margin-left: 2.6%;
+    margin-top: 1%;
+    padding-top: 1px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+/*class 10th*/
+.class10 {
+    margin-left: 590px;
+}
+
+.class10-heading {
+    text-align: center;
+    margin-top: -674px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.class10-title {
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 19px;
+}
+
+.class10-img {
+    height: 200px;
+    width: 32.9%;
+    margin-top: -2px;
+    border: 2px solid white;
+    border-radius: 17px;
+    margin-left: 315px;
+
+}
+
+.class10-science {
+    margin-left: 41%;
+    margin-top: 9px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn-class10 {
+    margin-left: 2.8%;
+    margin-top: 1%;
+    padding-top: 2.4px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class10-history {
+    margin-left: 41%;
+    margin-top: 11px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class10-geography {
+    margin-left: 38.8%;
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class10-civics {
+    margin-left: 42.5%;
+    margin-top: 11px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.class10-maths {
+    margin-left: 42.5%;
+    margin-top: 11px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class10-english {
+    margin-left: 42.1%;
+    margin-top: 12px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class10-hindi {
+    margin-left: 43.2%;
+    margin-top: 11px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class10-sanskrit {
+    margin-left: 41.4%;
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Class 11 commerce*/
+.class11-commerce {
+    margin-top: 60px;
+}
+
+.class11-heading-commerce {
+    margin-left: 7%;
+    margin-top: 70px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+h3.commerce {
+    margin-left: 133px;
+    margin-top: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.class11-title-commerce {
+    margin-left: 7%;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+    font-size: 19px;
+}
+
+.class11-img-commerce {
+    margin-left: 88px;
+    height: 180px;
+    width: 195px;
+}
+
+.btn-class11-commerce {
+    margin-left: 3%;
+    margin-top: 1.5%;
+    padding-top: 2.4px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class11-accounts {
+    margin-left: 5%;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class11-businessstudies {
+    margin-left: 1.5%;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    ;
+}
+
+.class11-ip {
+    margin-left: 8.4%;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class11-english-commerce {
+    margin-left: 6.2%;
+    margin-top: 0px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class11-hindi-commerce {
+    margin-left: 6.8%;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Class 11 pcm*/
+.class11-pcm {
+    text-align: center;
+    margin-top: -630px;
+}
+
+.class11-heading-pcm {
+    align-items: center;
+    margin-top: 50px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+h3.pcm {
+    align-items: center;
+    margin-top: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.class11-title-pcm {
+    align-items: center;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+    font-size: 19px;
+}
+
+.class11-img-pcm {
+    align-items: center;
+    height: 180px;
+    width: 195px;
+}
+
+.btn-class11-pcm {
+    margin-left: 3%;
+    margin-top: 1.5%;
+    padding-top: 2.4px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class11-physics {
+    /*margin-left: 100px;*/
+    align-items: center;
+    margin-top: -1px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class11-chemistry {
+    margin-left: -18px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class11-maths {
+    margin-left: 14px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class11-englishpcm {
+    margin-left: 9px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    ;
+}
+
+.class11-cs {
+    margin-left: 35px;
+    margin-top: -2px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class11-hindipcm {
+    margin-left: 24px;
+    margin-top: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Class 11th pcb*/
+.class11-heading-pcb {
+    text-align: center;
+    margin-top: -672px;
+    margin-left: 1190px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.class11-title-pcb {
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 1.2%;
+    margin-left: 1190px;
+    font-size: 19px;
+}
+
+h3.pcb {
+    margin-top: 4px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 1345px;
+}
+
+.class11-img-pcb {
+    height: 180px;
+    width: 195px;
+    margin-top: -5px;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-left: 1260px;
+}
+
+.btn-class11-pcb {
+    margin-left: 5%;
+    margin-top: 1%;
+    padding-top: 2 .4px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class11-physics-pcb {
+    margin-left: 1260px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class11-chemistry-pcb {
+    margin-left: 1237px;
+    margin-top: 23px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class11-biology-pcb {
+    margin-left: 1259px;
+    margin-top: 23px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class11-cs-pcb {
+    margin-left: 1290px;
+    margin-top: 21px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.class11-english-pcb {
+    margin-left: 1262px;
+    margin-top: 22px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class11-hindi-pcb {
+    margin-left: 1273px;
+    margin-top: 22px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Class 12 commerce*/
+.class12-commerce {
+    margin-top: 96px;
+}
+
+.class12-heading-commerce {
+    margin-left: 7%;
+    margin-top: 70px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+h3.class12-commerce {
+    margin-left: 133px;
+    margin-top: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.class12-title-commerce {
+    margin-left: 7%;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+    font-size: 19px;
+}
+
+.class12-img-commerce {
+    margin-left: 88px;
+    height: 180px;
+    width: 195px;
+}
+
+.btn-class12-commerce {
+    margin-left: 3%;
+    margin-top: 1.5%;
+    padding-top: 2.4px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class12-accounts {
+    margin-left: 5%;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class12-businessstudies {
+    margin-left: 1.5%;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    ;
+}
+
+.class12-ip {
+    margin-left: 8.4%;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class12-english-commerce {
+    margin-left: 6.2%;
+    margin-top: 0px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class12-hindi-commerce {
+    margin-left: 6.8%;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Class 12 pcm*/
+.class12-pcm {
+    text-align: center;
+    margin-top: -630px;
+}
+
+.class12-heading-pcm {
+    align-items: center;
+    margin-top: 50px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+h3.pcm {
+    align-items: center;
+    margin-top: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.class12-title-pcm {
+    align-items: center;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+    font-size: 19px;
+}
+
+.class12-img-pcm {
+    align-items: center;
+    height: 180px;
+    width: 195px;
+}
+
+.btn-class12-pcm {
+    margin-left: 3%;
+    margin-top: 1.5%;
+    padding-top: 2.4px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class12-physics {
+    /*margin-left: 100px;*/
+    align-items: center;
+    margin-top: -1px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class12-chemistry {
+    margin-left: -18px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class12-maths {
+    margin-left: 14px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class12-englishpcm {
+    margin-left: 9px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    ;
+}
+
+.class12-cs {
+    margin-left: 35px;
+    margin-top: -2px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class12-hindipcm {
+    margin-left: 24px;
+    margin-top: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Class 12th pcb*/
+.class12-heading-pcb {
+    text-align: center;
+    margin-top: -634px;
+    margin-left: 1190px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.class12-title-pcb {
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 1.2%;
+    margin-left: 1190px;
+    font-size: 19px;
+}
+
+h3.pcb {
+    margin-top: 4px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 1345px;
+}
+
+.class12-img-pcb {
+    height: 180px;
+    width: 195px;
+    margin-top: -5px;
+    margin-left: 1260px;
+}
+
+.btn-class12-pcb {
+    margin-left: 5%;
+    margin-top: 1%;
+    padding-top: 2 .4px;
+    font-size: 20px;
+    color: #5c00cc;
+    background: rgb(237, 237, 237);
+    border: 3px solid grey;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+
+}
+
+.class12-physics-pcb {
+    margin-left: 1260px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class12-chemistry-pcb {
+    margin-left: 1237px;
+    margin-top: 23px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class12-biology-pcb {
+    margin-left: 1259px;
+    margin-top: 23px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class12-cs-pcb {
+    margin-left: 1290px;
+    margin-top: 21px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.class12-english-pcb {
+    margin-left: 1262px;
+    margin-top: 22px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.class12-hindi-pcb {
+    margin-left: 1273px;
+    margin-top: 22px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text-footer {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 10px;
+    padding: 15px 0px;
+    background-color: #4d4d4d;
+    color: white;
+
+}
